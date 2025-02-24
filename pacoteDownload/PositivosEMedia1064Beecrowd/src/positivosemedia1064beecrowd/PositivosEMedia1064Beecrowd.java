@@ -31,6 +31,8 @@ public class PositivosEMedia1064Beecrowd {
         }
         System.out.println(String.format(pos + " valores positivos"));
         System.out.printf(String.format("%.1f", soma/pos));
+        System.out.println();
+        
     }
     
 }
